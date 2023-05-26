@@ -30,6 +30,11 @@
 
 <br/>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=shristi-bhushan&theme=dark&hide_border=false)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=scmishra-cse&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
